@@ -1,3 +1,8 @@
+"use strict";
+
+const LinkedList = require("./linked-list");
+
+
 /** Node: node for a stack. */
 
 class Node {
